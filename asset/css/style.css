@@ -1,0 +1,32 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+    box-sizing: border-box;
+}
+
+.bg-dark {
+    background-color: #242424 !important;
+}
+
+.navbar-brand img {
+    max-width: 114px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #23A657 !important;
+}
+
+.navbar-nav .nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar-nav .nav-item:last-child {
+    padding-right: initial;
+}
