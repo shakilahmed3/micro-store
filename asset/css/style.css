@@ -89,3 +89,39 @@
     width: 10px;
     border-radius: 50%;
 }
+
+
+.hero-nav-logo{
+    margin: 0 auto 0 auto;
+    max-width: 300px;
+    margin-bottom: 15px;
+}
+
+.social-link{
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+
+.social-link a{
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    height: 50px;
+    width: 50px;    
+    border: 2px solid white;
+    border-radius: 50%;
+    text-align: center;
+    transition: all .3s;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+
+.social-link a:hover{
+    background-color: #28a745;
+    border-color: transparent;
+}
+
+.overlay-content button{
+    text-transform: uppercase;
+}
